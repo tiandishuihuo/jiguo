@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style:none;
+    text-decoration: none;
+}
+#box{
+    width: 1423px;
+    margin: auto;
+    position: relative;
+}
+.nav{
+    height: 75px;
+    line-height: 75px;
+    font-size: 20px;
+    border-bottom: 3px solid #DCCCC8;
+}
+.logo{
+    float: left;
+    height: 50px;
+   margin: 12.5px 0px;
+   margin-left: 200px;
+}
+li{
+    float: left;
+    margin: 0px 25px;
+}
+.deng{
+    float: right;
+    margin-right: 100px;
+}
+.deng img{
+    margin-top:25px;
+    position: absolute;
+  right: 220px;
+}
+.deng input{
+    width: 50px;
+    height: 30px;
+    border: 1px solid #F8573D;
+    border-radius:5px;
+    font-size: 20px;
+    color: #E44530;
+    text-align: center;
+}
+.use{
+    border-bottom: 3px solid #DCCCC8;
+    height: 300px;
+    background: url('../img/img/original.jpg') no-repeat -200px;
+}
+.dong{
+    color: #fff;
+    float: right;
+}
+.dong span{
+    display: inline-block;
+    padding: 0px 10px;
+    height: 35px;
+    font-size: 16px;
+    line-height: 35px;
+    border-radius: 3px;
+    background-color: #F7D39A;
+}
+.foot{
+    height: 360px;
+    background-color: #505050;
+    color: #9C9D98;
+    font-size: 12px;
+}
+.foot ul{
+    width: 140px;
+    float: left;
+}
+.img{
+    float: left;
+    margin: 40px 0px 0px 200px;
+}
+.log{
+ margin: 40px 40px 0px 20px;  
+}
+.log img{
+    margin-bottom: 20px;
+}
+.log li{
+    width: 140px;
+    margin: 10px 0px;
+}
+.foot1{
+    font-size: 16px;
+    color: #fff;
+    margin: 40px 38px 30px 25px ;
+   
+}
+.foot li{
+ margin-bottom: 8px;
+}
+.log1 li{
+ width: 140px;
+
+}
+.log1 span{
+    display: inline-block;
+    width: 50%;
+}
+.log2 li{
+    width: 170px;
+}
+.di{
+    position: relative;
+    top: 340px;
+    left:-500px;
+}
