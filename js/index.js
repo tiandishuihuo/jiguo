@@ -27,5 +27,5 @@ $(function () {
       }
     }
   })
-  console.log($(".lun").scrollLeft());
+  console.log($(".lun").scrollLeft(  ));
 });
